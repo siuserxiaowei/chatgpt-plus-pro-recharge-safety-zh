@@ -19,7 +19,7 @@
 
 | 你现在的情况 | 先看 |
 | --- | --- |
-| 还没买，不知道 Plus 还是 Pro | [套餐选择](docs/02-plus-5x-20x-selection.md) · [价格页](https://payforgpt.com/plus-price) · [Pro 对照](https://payforgpt.com/chatgpt-pro) |
+| 还没买，不知道 Plus 还是 Pro | [套餐选择](docs/02-plus-5x-20x-selection.md) · [价格页](https://payforgpt.com/price) · [Pro 对照](https://payforgpt.com/chatgpt-pro) |
 | 准备下单，怕踩坑 | [安全核对](docs/03-safe-checkout-checklist.md) · [充值步骤](https://payforgpt.com/how-to/recharge-chatgpt-plus) |
 | 已付款，页面还是 Free / 未交付 | [交付排查](docs/04-payment-not-delivered.md) · [查单](https://payforgpt.com/order) |
 | 看到别人卖「官方 Credits / API 余额」 | [Credits 说明](docs/05-official-credits-info-only.md)（本站不售卖） |
@@ -29,11 +29,19 @@
 
 1. **永远不要把 ChatGPT 密码、短信验证码、Session、Cookie、API Key 发给任何「客服」或群友。** 正规交付用兑换码或商家自有流程，不需要你的登录凭据。
 2. **一次只改一个条件。** 同时换邮箱、换商品、换支付通道，修好了也不知道哪一步起作用。
-3. **以订单页与官方账号页为准。** 本仓库不承诺到账秒数、成功率或库存；价格与库存以 [PayForGPT 商品页](https://payforgpt.com/plus-price) 实时展示为准。
+3. **以订单页与官方账号页为准。** 本仓库不承诺到账秒数、成功率或库存；价格与库存以 [PayForGPT 商品页](https://payforgpt.com/price) 实时展示为准。
+
+
+## 2026-11-05 增补入口
+
+- 代充平台推荐（中立核对，不做排行）：https://payforgpt.com/compare/chatgpt-daichong-pingtai-tuijian
+- 付款未获批准枢纽：https://payforgpt.com/help/chatgpt-payment-not-approved
+- 档位只用美元对齐：5x=$100、20x=$200；商品名继续 5x/20x
+- 精简充值指南仓：https://github.com/siuserxiaowei/chatgpt-plus-recharge-guide-cn
 
 ## PayForGPT 入口（本仓库只链本站）
 
-- 价格与库存：[plus-price](https://payforgpt.com/plus-price)
+- 价格与库存：[plus-price](https://payforgpt.com/price)
 - Pro 5x / 20x 怎么选：[chatgpt-pro](https://payforgpt.com/chatgpt-pro)
 - 国内充值步骤：[how-to/recharge-chatgpt-plus](https://payforgpt.com/how-to/recharge-chatgpt-plus)
 - 微信支付通道核对：[ai-subscriptions/chatgpt-wechat-alipay-payment](https://payforgpt.com/ai-subscriptions/chatgpt-wechat-alipay-payment)
